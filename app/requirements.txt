@@ -3,7 +3,7 @@ ruamel.yaml==0.17.17
 sanic==21.9.1
 requests==2.26.0
 validators==0.18.2
-asyncpg==0.24.0
+asyncpg==0.25.0
 websockets==10.1
 beautifulsoup4==4.10.0
 dnspython==2.1.0
